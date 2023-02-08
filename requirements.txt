@@ -6,3 +6,4 @@ opencv-python
 imutils
 reportlab
 img2pdf
+gunicorn
